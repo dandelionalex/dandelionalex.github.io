@@ -7,7 +7,7 @@ Everyone knows that we can't move any object in scene just by increasing transfo
 The reason comes from how C# works with structures.
 Vector3 is a structure type, and structure is a value type.
 When you get value from the property, it returns a copy of the value, so changing the value of a copy is useless. The compiler is stopping you from writing code that doesn't do what it looks like it does.
-(../assets/Sprite_0.png)
+![](assets/Sprite_0.png)
 The snippet below illustrates the difference between Value and Property.
 	public class GO : MonoBehaviour
 	{
