@@ -1,1 +1,0 @@
-#Universal link is is the way to create link in the same time to the app and to the web site

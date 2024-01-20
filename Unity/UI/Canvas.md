@@ -12,3 +12,4 @@ https://www.hallgrimgames.com/blog/2018/10/16/unity-layout-groups-explained
 
 
 SizeDelta
+	https://stackoverflow.com/questions/44471568/how-to-calculate-sizedelta-in-recttransform

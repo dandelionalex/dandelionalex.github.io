@@ -1,0 +1,26 @@
+# Dandelion's architecture.
+
+SOLID
+DI container
+Modules
+Signal Bus
+SCREAMING ARCHITECTURE: https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html
+
+Module (Component)
+	ExternalContract (External Interface)
+	ModuleController ()
+	Model - can be 	 
+	UnitTest - 
+
+
+
+
+
+Examples of models:
+	TouchModule		-
+	UILayoutModule 	-
+	Scenes - 
+	Debug -? 
+	
+
+Questinable:
